@@ -1,0 +1,12 @@
+2026-06-11 10:15:31.439 [WRN] LTND: Config 'bitcoin.active' is deprecated, please remove it
+2026-06-11 10:15:31.440 [INF] LTND: Version Info rev=1a6ece version=0.21.99-beta commit=kvdb/v1.5.1-39-g1a6ecebcb debuglevel=production logging=info
+2026-06-11 10:15:31.440 [INF] LTND: Network Info rev=1a6ece active_chain=Bitcoin network=regtest
+2026-06-11 10:15:31.441 [INF] RPCS: Generating TLS certificates...
+2026-06-11 10:15:31.445 [INF] RPCS: Done generating TLS certificates
+2026-06-11 10:15:31.450 [ERR] LTND: Shutting down due to error in main method rev=1a6ece err="listen tcp4 127.0.0.1:10001: bind: address already in use" endpoint=127.0.0.1:10001
+2026-06-11 10:15:31.451 [INF] LTND: Shutdown complete
+2026-06-11 10:19:11.939 [WRN] LTND: Config 'bitcoin.active' is deprecated, please remove it
+2026-06-11 10:19:11.939 [INF] LTND: Version Info rev=1a6ece version=0.21.99-beta commit=kvdb/v1.5.1-39-g1a6ecebcb debuglevel=production logging=info
+2026-06-11 10:19:11.941 [INF] LTND: Network Info rev=1a6ece active_chain=Bitcoin network=regtest
+2026-06-11 10:19:11.949 [ERR] LTND: Shutting down due to error in main method rev=1a6ece err="listen tcp4 127.0.0.1:10001: bind: address already in use" endpoint=127.0.0.1:10001
+2026-06-11 10:19:11.949 [INF] LTND: Shutdown complete
